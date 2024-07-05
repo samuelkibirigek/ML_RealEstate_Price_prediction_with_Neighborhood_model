@@ -1,0 +1,2 @@
+# ML_RealEstate_Price_prediction_with_Neighborhood_model
+This repository contains a project focused on predicting real estate prices in Buenos Aires, Argentina. The project involves encoding non-numerical data and applying the Ridge method of linear regression, all within a pipeline, to develop a robust predictive model. The model uses neighborhood information to predict real estate prices in the city.
